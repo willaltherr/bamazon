@@ -18,8 +18,9 @@ This project was maintained and contributed by Will Altherr.  In order for me to
 
 6. Image Folder:
 The image folder has screenshots that can be viewed to show the results from running the program in the terminal.
-  - Calculation Image
-    ![GitHub Logo](/images/Calculation.jpg)
-    Format: ![Alt Text](url)
+  - Calculation Image:
+    ![Calculation](https://user-images.githubusercontent.com/50216220/67813391-cda97d80-fa77-11e9-877e-40866f0f819a.JPG)
+  - Not Enough Image:
+    ![Not Enough](https://user-images.githubusercontent.com/50216220/67813407-d437f500-fa77-11e9-8d59-b3b3beff2bff.JPG)
 
 7. Completed Challenge #1.
